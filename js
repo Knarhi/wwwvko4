@@ -1,4 +1,5 @@
 /*script.js*/
 $( document ).ready(function() {
-  console.log( 'ready!' );
+  $("button").click(function() {
+  	$("ul").append("<li>Stuff!</li>");
 });
