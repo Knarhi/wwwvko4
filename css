@@ -1,8 +1,29 @@
-h1 {
-	font-family: Times new roman;
-
+html {
+  background-color: #ccffff;
 }
 
-#button {
-  padding: 10px 10px 10px 10px;
-  }
+h1 {
+	font-family: Times new roman;
+  background-color: #BCD2EE;
+	height: 1.5em;
+	width: 6em;
+  text-align: center;
+  border-radius: 0.04em;
+	border: 0.04em solid #6495ED;
+}
+form {
+  float: left;
+}
+button {
+	text-align: center;
+}
+
+li {
+  font-family: Times new roman;
+  background-color: #BCD2EE;
+	height: 1.5em;
+	width: 10em;
+  text-align: center;
+  border-radius: 0.04em;
+	border: 0.04em solid #6495ED;
+}
